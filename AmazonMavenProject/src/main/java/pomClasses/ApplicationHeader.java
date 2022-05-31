@@ -60,5 +60,5 @@ public class ApplicationHeader {
 		signOut.click();
 	}
 	
-	Last Line
+	
 }
