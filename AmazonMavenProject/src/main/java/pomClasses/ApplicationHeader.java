@@ -50,13 +50,13 @@ public class ApplicationHeader {
 //		wait.until(ExpectedConditions.visibilityOf(customerService));
 		customerService.click();
 	}
-	public void clickOnList()
-	{
-		Actions act =new Actions(driver);
-		act.moveToElement(loginAccount).moveToElement(signOut).click().build().perform();
-	}
-	public void ClickOnsignOut()
-	{
-		signOut.click();
-	}
+//	public void clickOnList()
+//	{
+//		Actions act =new Actions(driver);
+//		act.moveToElement(loginAccount).moveToElement(signOut).click().build().perform();
+//	}
+//	public void ClickOnsignOut()
+//	{
+//		signOut.click();
+//	}
 }
